@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dreammer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_tell_me">请大声告诉我：</string>
+    <string name="main_tell_what">你有梦想吗</string>
+    <string name="nodream_one">咸鱼</string>
+    <string name="nodream_two">笨蛋</string>
+    <string name="whatdream_dreamname">%1$s</string>
+
+</resources>
